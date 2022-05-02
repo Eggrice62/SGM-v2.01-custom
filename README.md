@@ -8,6 +8,8 @@ by 사양
 ## 다운로드 링크 (v1.195, 5/1)
 https://drive.google.com/file/d/1ShohhB_FuKME9xmlpaBYRe7Or4899Edk/view?usp=sharing
 
+- 링크에 FuK 들어갔다고 인게임 공유가 불가능해서 이 페이지를 만들었습니다. 갓겜
+
 # 업데이트 내역
 
 ## ver 1.195 (2022/5/1)
