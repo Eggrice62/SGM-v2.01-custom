@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1ShohhB_FuKME9xmlpaBYRe7Or4899Edk/view?usp=shari
 # 업데이트 내역
 
 ## ver 1.195 (2022/5/1)
-- 천둥, 비, 바람, 새, 공 등 효과음 추가 (탐탐 O6 음역대)
+- 천둥, 비, 바람, 새, 공,  등 효과음 추가 (탐탐 O6 음역대)
 
 ## ver 1.1943 (2022/5/1)
 - 스틸드럼이 탈주한 것을 다시 납치
