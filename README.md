@@ -47,7 +47,7 @@ https://drive.google.com/file/d/1paBnoVC7vSMRwnRhh7KeTez_fU6-PB6w/view?usp=shari
 - 스트링 업뎃
 
 ## ver 1.17 (2022/2/13)
-- ?
+- 베이스들 음량 상향, 콘서트 베이스 드럼 추가 (탐탐 B1)
 
 ## ver 1.16 (2022/2/12)
 - ?
