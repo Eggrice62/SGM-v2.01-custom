@@ -5,12 +5,15 @@ by 사양
 - 기존에 최고의 사운드폰트로 평가되며 언더테일에도 사용된 SGM v2.01을 기반으로, 다양한 사폰으로부터 샘플을 파밍하여 만들었습니다.
 - 고퀄의 음색과 더불어, 드럼세트/성악/스트링/튜블러벨 등 메2에 없는 다양한 음색을 사용할 수 있습니다.
 
-## 다운로드 링크 (v1.196, 5/3)
-https://drive.google.com/file/d/1paBnoVC7vSMRwnRhh7KeTez_fU6-PB6w/view?usp=sharing
+## 다운로드 링크 (v1.197, 5/13)
+https://drive.google.com/file/d/1twUR2nryvAMEP8TlRxkMKEryak46i1TY/view?usp=sharing
 
 - 링크에 FuK 들어갔다고 인게임 공유가 불가능해서 이 페이지를 만들었습니다. 갓겜
 
 # 업데이트 내역
+
+## ver 1.197 (2022/5/13)
+- 호른, 오르간 추가 (신규 악기 출시 대비)
 
 ## ver 1.196 (2022/5/3)
 - 파도, 비명 소리 추가, 피크 베이스 
