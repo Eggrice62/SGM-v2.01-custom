@@ -6,11 +6,17 @@ by 사양
 - 고퀄의 음색과 더불어, 드럼세트/성악/스트링/튜블러벨 등 메2에 없는 다양한 음색을 사용할 수 있습니다.
 
 ## 다운로드 링크 (v1.197, 5/13)
-https://drive.google.com/file/d/1twUR2nryvAMEP8TlRxkMKEryak46i1TY/view?usp=sharing
+https://drive.google.com/file/d/1XxLjj5MX1KvR0yaWTqX2Q2T-Y8Co6nSu/view?usp=sharing
 
 - 링크에 FuK 들어갔다고 인게임 공유가 불가능해서 이 페이지를 만들었습니다. 갓겜
 
 # 업데이트 내역
+
+## ver 1.1991 (2022/10/03)
+- '그' 소리 추가
+
+## ver 1.199 (2022/7/7)
+- 오르간 8옥도 이상 출력
 
 ## ver 1.197 (2022/5/13)
 - 호른, 오르간 추가 (신규 악기 출시 대비)
